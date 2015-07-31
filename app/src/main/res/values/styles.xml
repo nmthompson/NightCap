@@ -1,0 +1,16 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="android:textColorPrimary">@color/text_primary</item>
+        <item name="android:windowBackground">@color/background</item>
+        <item name="android:colorAccent">@color/accent</item>
+        <item name="android:colorPrimary">@color/primary</item>
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:colorPrimaryDark">@color/primary_dark</item>
+        <item name="android:actionOverflowMenuStyle">@color/background</item>
+    </style>
+
+
+</resources>
